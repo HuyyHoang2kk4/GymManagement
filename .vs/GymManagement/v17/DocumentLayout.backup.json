@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\managememberspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\managememberspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\managememberspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\managememberspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\models\\workoutregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:models\\workoutregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\models\\workoutpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:models\\workoutpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\data\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:data\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\data\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:data\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\allregistrationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\allregistrationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\allregistrationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\allregistrationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\registerworkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\registerworkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\data\\workoutregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:data\\workoutregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\data\\workoutpackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:data\\workoutpackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nguyen Huyy Hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\a72d1fe1d63b42cf9cb06ff7869a9936a7741aa5\\Pages_ManageMembersPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\registerworkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\registerworkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\allregistrationspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\allregistrationspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\manageworkoutpackagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\manageworkoutpackagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\registerworkoutpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\registerworkoutpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\manageworkoutpackagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\manageworkoutpackagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\manageworkoutpackagespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\manageworkoutpackagespage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nguyen Huyy Hoang\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|c:\\users\\nguyen huyy hoang\\desktop\\. net\\gymmanagement\\gymmanagement\\pages\\managememberspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{142ABBFD-46C8-4AFC-8B53-2F5BAC027FAF}|GymManagement.csproj|solutionrelative:pages\\managememberspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T20:53:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GymContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\GymContext.cs",
+              "RelativeDocumentMoniker": "Data\\GymContext.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\GymContext.cs",
+              "RelativeToolTip": "Data\\GymContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:50:03.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Data\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\MemberRepository.cs",
+              "RelativeToolTip": "Data\\MemberRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:50:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkoutRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\WorkoutRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\WorkoutRegistration.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\WorkoutRegistration.cs",
+              "RelativeToolTip": "Models\\WorkoutRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:49:52.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageMembersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageMembersPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml",
+              "RelativeToolTip": "Pages\\ManageMembersPage.xaml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:05:52.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageMembersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageMembersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageMembersPage.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:51:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:22:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:50:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkoutPackage.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\WorkoutPackage.cs",
+              "RelativeDocumentMoniker": "Models\\WorkoutPackage.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Models\\WorkoutPackage.cs",
+              "RelativeToolTip": "Models\\WorkoutPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:27:29.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T16:30:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:30:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AllRegistrationsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AllRegistrationsPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml",
+              "RelativeToolTip": "Pages\\AllRegistrationsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:24:17.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:53:51.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:53:23.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:17:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T16:23:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T20:53:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AllRegistrationsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AllRegistrationsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AllRegistrationsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterWorkoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegisterWorkoutPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml",
+              "RelativeToolTip": "Pages\\RegisterWorkoutPage.xaml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:03:11.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkoutRegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\WorkoutRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Data\\WorkoutRegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\WorkoutRegistrationRepository.cs",
+              "RelativeToolTip": "Data\\WorkoutRegistrationRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:50:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WorkoutPackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\WorkoutPackageRepository.cs",
+              "RelativeDocumentMoniker": "Data\\WorkoutPackageRepository.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Data\\WorkoutPackageRepository.cs",
+              "RelativeToolTip": "Data\\WorkoutPackageRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:27:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:16:30.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pages_ManageMembersPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\a72d1fe1d63b42cf9cb06ff7869a9936a7741aa5\\Pages_ManageMembersPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a72d1fe1d63b42cf9cb06ff7869a9936a7741aa5\\Pages_ManageMembersPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\a72d1fe1d63b42cf9cb06ff7869a9936a7741aa5\\Pages_ManageMembersPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a72d1fe1d63b42cf9cb06ff7869a9936a7741aa5\\Pages_ManageMembersPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:09:59.183Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterWorkoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RegisterWorkoutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RegisterWorkoutPage.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAwwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:51:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllRegistrationsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AllRegistrationsPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\AllRegistrationsPage.xaml",
+              "RelativeToolTip": "Pages\\AllRegistrationsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:19:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageWorkoutPackagesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageWorkoutPackagesPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml",
+              "RelativeToolTip": "Pages\\ManageWorkoutPackagesPage.xaml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:43:10.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterWorkoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegisterWorkoutPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\RegisterWorkoutPage.xaml",
+              "RelativeToolTip": "Pages\\RegisterWorkoutPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:55:08.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageWorkoutPackagesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageWorkoutPackagesPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml",
+              "RelativeToolTip": "Pages\\ManageWorkoutPackagesPage.xaml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:40:40.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageWorkoutPackagesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageWorkoutPackagesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageWorkoutPackagesPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageWorkoutPackagesPage.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:49.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGgCAAAAAAAAAAASwHYCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-08T05:15:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AgIAAFYKAAAAAAAAAAASwGQKAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-08T05:15:22.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManageMembersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageMembersPage.xaml",
+              "ToolTip": "C:\\Users\\Nguyen Huyy Hoang\\Desktop\\. NET\\GymManagement\\GymManagement\\Pages\\ManageMembersPage.xaml",
+              "RelativeToolTip": "Pages\\ManageMembersPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:03:04.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

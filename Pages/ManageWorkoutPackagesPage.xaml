@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagement.ManageWorkoutPackagesPage"
+             BackgroundColor="White">
+
+	<ScrollView>
+		<VerticalStackLayout Padding="20" Spacing="10">
+
+			<Label Text="QUẢN LÝ GÓI TẬP"
+                   FontSize="35"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="Black"
+                   Margin="0,0,0,10"/>
+
+			<!-- Thanh Tìm Kiếm -->
+			<HorizontalStackLayout Spacing="15">
+				<Entry x:Name="searchEntry"
+                       Placeholder="Tìm kiếm theo tên gói..."
+                       WidthRequest="250"/>
+				<Button Text="Tìm kiếm"
+                        Clicked="OnSearchClicked"
+                        BackgroundColor="#2196F3"
+                        TextColor="White" />
+				<Button Text="Thêm Gói Tập"
+                        BackgroundColor="#4CAF50"
+                        TextColor="White"
+                        Clicked="OnAddPackageClicked" />
+			</HorizontalStackLayout>
+
+			<!-- Header các cột -->
+			<Frame Margin="5,0,5,0" BorderColor="LightGray" Padding="5,8,5,8" BackgroundColor="#f5f5f5">
+				<Grid ColumnDefinitions="*, *, *, Auto">
+					<Label Text="Tên Gói"
+                           Grid.Column="0"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Số Ngày"
+                           Grid.Column="1"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Giá"
+                           Grid.Column="2"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Thao Tác"
+                           Grid.Column="3"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           HorizontalOptions="End"
+                           VerticalOptions="Center"/>
+				</Grid>
+			</Frame>
+
+			<!-- Bảng Danh Sách Gói Tập -->
+			<CollectionView x:Name="packagesCollectionView" ItemsSource="{Binding Packages}" Margin="0,-5,0,0">
+				<CollectionView.ItemTemplate>
+					<DataTemplate>
+						<Frame Margin="5,0,5,5" BorderColor="LightGray" Padding="5,8,5,8" BackgroundColor="White">
+							<Grid RowDefinitions="Auto" ColumnDefinitions="*, *, *, Auto">
+								<!-- Cột Tên Gói -->
+								<Label Text="{Binding PackageName}"
+                                       Grid.Row="0" Grid.Column="0"
+                                       FontSize="16"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"/>
+
+								<!-- Cột Số Ngày -->
+								<Label Text="{Binding DurationInDays}"
+                                       Grid.Row="0" Grid.Column="1"
+                                       FontSize="16"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"/>
+
+								<!-- Cột Giá -->
+								<!-- Cột Giá -->
+								<!-- Cột Giá -->
+								<Label Text="{Binding Price, StringFormat='{0:N0} VND'}"
+									   Grid.Row="0" Grid.Column="2"
+									   FontSize="16"
+									   VerticalOptions="Center"
+									   HorizontalOptions="Start"/>
+
+
+
+								<!-- Cột Thao tác -->
+								<HorizontalStackLayout Grid.Row="0" Grid.Column="3"
+                                             Spacing="5" HorizontalOptions="End">
+									<Button Text="✏️"
+                                            BackgroundColor="#FF9800"
+                                            TextColor="White"
+                                            FontSize="14"
+                                            WidthRequest="60"
+                                            HeightRequest="30"
+                                            Clicked="OnEditClicked"/>
+									<Button Text="🗑"
+                                            BackgroundColor="#F44336"
+                                            TextColor="White"
+                                            FontSize="14"
+                                            WidthRequest="60"
+                                            HeightRequest="30"
+                                            Clicked="OnDeleteClicked"/>
+								</HorizontalStackLayout>
+							</Grid>
+						</Frame>
+					</DataTemplate>
+				</CollectionView.ItemTemplate>
+			</CollectionView>
+
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>

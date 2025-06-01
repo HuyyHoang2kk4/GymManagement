@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagement.LoginPage"
+             BackgroundColor="LightGray"
+             Title="Đăng Nhập">
+
+	<VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
+
+		<Label Text="🧑‍💼 Đăng Nhập Hệ Thống" FontSize="28"
+			   HorizontalOptions="Center" FontAttributes="Bold" TextColor="Black" />
+
+		<!-- Ô nhập Tên đăng nhập -->
+		<Frame CornerRadius="10" BackgroundColor="White" Padding="10" HasShadow="True" WidthRequest="200">
+			<HorizontalStackLayout Spacing="10">
+				<Image Source="user_icon.png" HeightRequest="20" WidthRequest="20" VerticalOptions="Center" />
+				<Entry x:Name="usernameEntry"
+					   Placeholder=" Tên đăng nhập    . "
+					   FontSize="14"
+					   HorizontalOptions="FillAndExpand" />
+
+
+			</HorizontalStackLayout>
+		</Frame>
+
+		<Frame CornerRadius="10" BackgroundColor="White" Padding="10" HasShadow="True" WidthRequest="200">
+			<HorizontalStackLayout Spacing="10">
+				<Image Source="lock_icon.png" HeightRequest="20" WidthRequest="20" VerticalOptions="Center" />
+				<Entry x:Name="passwordEntry"
+					   Placeholder="Nhập Mật khẩu     ."
+					   IsPassword="True"
+					   FontSize="14"
+					   HorizontalOptions="FillAndExpand" />
+			</HorizontalStackLayout>
+		</Frame>
+
+
+		<!-- Nút đăng nhập -->
+		<Button Text="🔐 Đăng nhập"
+				Clicked="OnLoginClicked"
+				BackgroundColor="#4CAF50"
+				TextColor="White"
+				CornerRadius="20"
+				HeightRequest="45"
+				WidthRequest="300"
+				FontSize="16" />
+
+		<Label x:Name="errorLabel" TextColor="Red" IsVisible="False" FontSize="14" HorizontalOptions="Center" />
+	</VerticalStackLayout>
+
+</ContentPage>

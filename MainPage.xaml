@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagement.MainPage"
+             BackgroundColor="LightSkyBlue">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30,0" Spacing="25">
+
+            <!-- Tiêu đề của trang -->
+            <Label
+                Text="Quản Lý Phòng Gym 🏋️‍♂️🏋️‍♂️🏋️‍♂️"
+                FontSize="32"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                TextColor="Black"
+                Padding="0,10" />
+
+            <!-- Quản lý thành viên -->
+            <Button
+                Text="Quản lý thành viên"
+                FontSize="20"
+                BackgroundColor="#4CAF50"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="60"
+                Clicked="OnManageMembersClicked" />
+
+            <!-- Quản lý gói tập -->
+            <Button
+                Text="Quản lý gói tập"
+                FontSize="20"
+                BackgroundColor="#FF9800"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="60"
+                Clicked="OnManagePackagesClicked" />
+
+            <!-- Đăng ký gói tập -->
+            <Button
+                Text="Đăng ký gói tập"
+                FontSize="20"
+                BackgroundColor="#2196F3"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="60"
+                Clicked="OnManageRegistrationsClicked" />
+
+            <!-- Quản lý doanh thu -->
+            <Button
+                Text="Quản lý doanh thu"
+                FontSize="20"
+                BackgroundColor="#9C27B0"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="60"
+                Clicked="OnManageRevenueClicked" />
+
+            <!-- Nút đăng xuất -->
+            <Button
+                Text="Đăng xuất"
+                FontSize="18"
+                BackgroundColor="Crimson"
+                TextColor="White"
+                CornerRadius="15"
+                HeightRequest="50"
+                Clicked="OnLogoutClicked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

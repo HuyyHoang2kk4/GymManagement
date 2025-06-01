@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GymManagement.ManageMembersPage"
+             BackgroundColor="White"
+             WidthRequest="{OnPlatform iOS='0.66*', Android='0.66*', WinUI='0.66*', MacCatalyst='0.66*'}">
+
+	<ScrollView>
+		<VerticalStackLayout Padding="20" Spacing="10">
+			<!-- Giảm Spacing từ 20 xuống 10 -->
+
+			<Label Text="QUẢN LÝ THÀNH VIÊN"
+                   FontSize="35"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="Black"
+                   Margin="0,0,0,10"/>
+
+			<!-- Thanh Tìm Kiếm -->
+			<HorizontalStackLayout Spacing="15">
+				<Entry x:Name="searchEntry"
+                       Placeholder="Tìm kiếm theo số điện thoại..."
+                       WidthRequest="250"/>
+				<Button Text="Tìm kiếm"
+                        Clicked="OnSearchClicked"
+                        BackgroundColor="#2196F3"
+                        TextColor="White" />
+				<Button Text="Thêm Thành Viên"
+                        BackgroundColor="#4CAF50"
+                        TextColor="White"
+                        Clicked="OnAddMemberClicked" />
+			</HorizontalStackLayout>
+
+			<!-- Header các cột - Đã điều chỉnh Margin và Padding -->
+			<Frame Margin="5,0,5,0" BorderColor="LightGray" Padding="5,8,5,8" BackgroundColor="#f5f5f5">
+				<Grid ColumnDefinitions="*, *, *, Auto">
+					<Label Text="Họ và tên"
+                           Grid.Column="0"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Số điện thoại"
+                           Grid.Column="1"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Địa chỉ"
+                           Grid.Column="2"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Start"/>
+
+					<Label Text="Thao tác"
+                           Grid.Column="3"
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           HorizontalOptions="End"
+                           VerticalOptions="Center"/>
+				</Grid>
+			</Frame>
+
+			<!-- Bảng Danh Sách Thành Viên -->
+			<CollectionView x:Name="membersCollectionView"
+                          ItemsSource="{Binding Members}"
+                          Margin="0,-5,0,0">
+				<!-- Điều chỉnh Margin để khớp với header -->
+				<CollectionView.ItemTemplate>
+					<DataTemplate>
+						<Frame Margin="5,0,5,5" BorderColor="LightGray" Padding="5,8,5,8" BackgroundColor="White">
+							<Grid RowDefinitions="Auto" ColumnDefinitions="*, *, *, Auto">
+								<!-- Cột Họ và tên -->
+								<Label Text="{Binding FullName}"
+                                       Grid.Row="0" Grid.Column="0"
+                                       FontSize="16"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"
+                                       LineBreakMode="TailTruncation"/>
+
+								<!-- Cột Số điện thoại -->
+								<Label Text="{Binding PhoneNumber}"
+                                       Grid.Row="0" Grid.Column="1"
+                                       FontSize="16"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"/>
+
+								<!-- Cột Địa chỉ -->
+								<Label Text="{Binding Address}"
+                                       Grid.Row="0" Grid.Column="2"
+                                       FontSize="16"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"
+                                       LineBreakMode="TailTruncation"/>
+
+								<!-- Cột Thao tác -->
+								<HorizontalStackLayout Grid.Row="0" Grid.Column="3"
+                                             Spacing="5" HorizontalOptions="End">
+									<Button Text="✏️"
+                                            BackgroundColor="#FF9800"
+                                            TextColor="White"
+                                            FontSize="14"
+                                            WidthRequest="60"
+                                            HeightRequest="30"
+                                            Clicked="OnEditClicked"/>
+									<Button Text="🗑"
+                                            BackgroundColor="#F44336"
+                                            TextColor="White"
+                                            FontSize="14"
+                                            WidthRequest="60"
+                                            HeightRequest="30"
+                                            Clicked="OnDeleteClicked"/>
+								</HorizontalStackLayout>
+							</Grid>
+						</Frame>
+					</DataTemplate>
+				</CollectionView.ItemTemplate>
+			</CollectionView>
+
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>
